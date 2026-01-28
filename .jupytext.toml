@@ -6,6 +6,3 @@ default_jupytext_formats = "ipynb,py:percent"
 cell_metadata_filter = "-all"
 notebook_metadata_filter = "-all"
 
-# (Optional) Ensure Python notebooks use .py percent format by default
-extension_mapping = { "ipynb" = "ipynb", "py" = "py" }
-
