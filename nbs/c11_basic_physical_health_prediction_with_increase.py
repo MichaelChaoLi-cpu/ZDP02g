@@ -78,6 +78,14 @@ aim_variable = SettingForFeatures.return_aim_variable_ph()
 n_splits = 10
 
 # %%
+mediate_variables = SettingForFeatures.return_aim_mediate()
+
+# %%
+mediate1 = pd.read_parquet(os.path.join('results', f'prediction_{mediate_variables[0]}.parquet'))
+mediate2 = pd.read_parquet(os.path.join('results', f'prediction_{mediate_variables[1]}.parquet'))
+mediate3 = pd.read_parquet(os.path.join('results', f'prediction_{mediate_variables[2]}.parquet'))
+
+# %%
 
 # %% [markdown]
 # ### Test
@@ -95,6 +103,9 @@ X, y = Modelling.prepare_data(
     always_inputs = always_inputs,
     aim_variable = aim_variable,
 )
+X[mediate_variables[0]] = mediate1[mediate_variables[0]]
+X[mediate_variables[1]] = mediate2[mediate_variables[1]]
+X[mediate_variables[2]] = mediate3[mediate_variables[2]]
 
 y_df = pd.DataFrame(np.full(
     shape = (X.shape[0], prediction_times), 
@@ -139,6 +150,9 @@ X, y = Modelling.prepare_data(
     always_inputs = always_inputs,
     aim_variable = aim_variable,
 )
+X[mediate_variables[0]] = mediate1[mediate_variables[0]]
+X[mediate_variables[1]] = mediate2[mediate_variables[1]]
+X[mediate_variables[2]] = mediate3[mediate_variables[2]]
 
 y_df = pd.DataFrame(np.full(
     shape = (X.shape[0], prediction_times), 
@@ -173,6 +187,16 @@ for col_index, random_state in enumerate(range(start_status, start_status + pred
 
 y_df[aim_variable] = y_df.mean(axis = 1)
 y_df.to_parquet(os.path.join('results', f'prediction_{effect_variable}_increase0x1std_{aim_variable}.parquet'))
+
+# %%
+
+# %%
+
+# %%
+
+# %%
+
+# %%
 
 # %%
 
