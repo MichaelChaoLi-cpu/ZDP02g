@@ -749,8 +749,8 @@ for i, (ax, effect_variable, title) in enumerate(
         transform=ccrs.PlateCarree(),
         cmap=custom_cmap_white,
         aspect="auto",
-        vmin=-0.1,
-        vmax=0.1
+        vmin=-0.5,
+        vmax=0.5
     )
 
     # Borders and coastlines
@@ -859,8 +859,8 @@ for i, (ax, effect_variable, title) in enumerate(
         transform=ccrs.PlateCarree(),
         cmap=custom_cmap_white,
         aspect="auto",
-        vmin=-2,
-        vmax=2
+        vmin=-1,
+        vmax=1
     )
 
     # Borders and coastlines
