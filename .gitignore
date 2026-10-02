@@ -66,3 +66,13 @@ slurm-*.out
 # Secrets
 # ========================
 .env
+
+# Revised release: keep research inputs and local revision material private
+data/**
+Rev/
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+*.ipynb

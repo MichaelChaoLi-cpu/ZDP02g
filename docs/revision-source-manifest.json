@@ -1,0 +1,318 @@
+[
+  {
+    "path": "src/analyses/plot_revision_spatial_supplement.py",
+    "sha256": "148e165202a3f8476f672232917a7c8f52e39635dacf2dd631608eb401b06f3c"
+  },
+  {
+    "path": "src/analyses/summarize_revision_sample.py",
+    "sha256": "07f6244ab0c32d3aed3bd3ab182ec15b70ae5854873bfad2eaaa94b69d57fa0e"
+  },
+  {
+    "path": "src/analyses/categorical_prediction.py",
+    "sha256": "e14d9ab45c8b383f20ee363bf35ed15c69a2cf8db3d05e928b0322a1038e1f45"
+  },
+  {
+    "path": "src/analyses/audit_exposure_run_alignment.py",
+    "sha256": "f6859fa31a3e91325326b0d304e4b5b2cb7eaa508d3f3e500ff7004e6b57754a"
+  },
+  {
+    "path": "src/analyses/audit_variable_alignment.py",
+    "sha256": "859a0ab6a7f485370eace26468ec54f0b40ea6e4541c4f1e11b68476b5da69c6"
+  },
+  {
+    "path": "src/analyses/run_revision_experiments.py",
+    "sha256": "e9d2a08ac951986c9546b793b35036bbf4c485628bc992ccea36decfb34f57a9"
+  },
+  {
+    "path": "src/analyses/report_revision_benchmarks.py",
+    "sha256": "87557d362a993ac7bb13bf308b1c4836c92f8d00f35c688cae06350760637d66"
+  },
+  {
+    "path": "src/analyses/audit_survey_exposure_metadata.py",
+    "sha256": "60395ae3298c28c928d26f34b2dbf5c1cf9c59663938440638681ab70120e1c9"
+  },
+  {
+    "path": "src/analyses/validate_paired_perturbation.py",
+    "sha256": "81359567f7157b425e044af13394843201a2dbb6acf4d695a30d7f908c55ceac"
+  },
+  {
+    "path": "src/analyses/audit_feature_importance_provenance.py",
+    "sha256": "3c27d83ae1ed925baf5a887d677b1ca31c3fa30a22685823f1ec5904b4633bf3"
+  },
+  {
+    "path": "src/analyses/audit_spatial_coarsening.py",
+    "sha256": "cb943658535359df148b478df854e23ec7bc368225ece76092aedfad0b1207a4"
+  },
+  {
+    "path": "src/analyses/bootstrap_probability_pdp.py",
+    "sha256": "b7c98e31eb77761fa60857bec37512fa73763d11311ba2874d30a24b63e2bcf3"
+  },
+  {
+    "path": "src/analyses/summarize_bootstrap_uncertainty.py",
+    "sha256": "629063a9a18622c7f21def9ba7a0bb1ffb972b8376bb20656e71b1b8c065909f"
+  },
+  {
+    "path": "src/analyses/audit_resampling_design.py",
+    "sha256": "4cb5134581e7019c59db4f1815c61e56f9ad7862cd58a33a22e2e815fd61fdb2"
+  },
+  {
+    "path": "src/analyses/continue_grid_bootstrap_queue.py",
+    "sha256": "ab6c313d5b52c1225c4335beaa7e9230ad4ee9529aa2c9cfad6e30d89f4b8859"
+  },
+  {
+    "path": "src/analyses/nested_grid_bootstrap.py",
+    "sha256": "9cca0d1bb47e1c0c9f56b54510385f30e1e4f5dfb0bf1b463c72faf20c859046"
+  },
+  {
+    "path": "src/analyses/audit_temperature_provenance.py",
+    "sha256": "d8c499cdee854f83dff5ed98766bc6492f486a1a51cbb43dae1d63d6fee1b939"
+  },
+  {
+    "path": "src/analyses/build_revision_table1.py",
+    "sha256": "683272fc6a6185ec978b8e4ab6cc9557d3c469eff04aa994f68481d3c28fea95"
+  },
+  {
+    "path": "src/analyses/audit_sample_flow.py",
+    "sha256": "5e027677418465064522bf395fa8cda3b83ec4e90c2de25ded80ab2f9838a336"
+  },
+  {
+    "path": "src/analyses/render_table2_review.py",
+    "sha256": "b8acb9af88cd8cd6bd2a599cbe009e3b51a863c9150de20e23d4861b097e9f3b"
+  },
+  {
+    "path": "src/analyses/plot_revision_temperature_maps.py",
+    "sha256": "10a2928e364fba87ff8038a48e3a4b51621202e9c3ae9298feddd040667f6050"
+  },
+  {
+    "path": "src/analyses/plot_probability_pdp_zoomed.py",
+    "sha256": "a03c6054f8bb601390f08abc37effb1d71828b37f93d1ff4973d1f7fc0a67f9c"
+  },
+  {
+    "path": "src/analyses/diagnose_signed_perturbations.py",
+    "sha256": "da226af7c6750e8d0cad168dbb7259a9f914d9440db221f445369ba7d2ae62b1"
+  },
+  {
+    "path": "src/analyses/validate_exposure_corrections.py",
+    "sha256": "249e50549425289e9293db68a52ca9f4b2a54be05430b51dfe2dc401f7f3488e"
+  },
+  {
+    "path": "src/analyses/pilot_nested_grid_bootstrap.py",
+    "sha256": "50aebb6c4d02a386e63b81746b1021ad5fd8acd5684de39cbe9cbb47654da98d"
+  },
+  {
+    "path": "src/analyses/run_revision_benchmarks.py",
+    "sha256": "d7512d8cd383827445aa8e3777c4d2117426583005903690a5c72607a135386c"
+  },
+  {
+    "path": "src/analyses/plot_revision_feature_importance.py",
+    "sha256": "ca2d27a715c55424ab74b772c781cb0ead7ffaf8e57832a758fa3ae8d75c0623"
+  },
+  {
+    "path": "src/analyses/plot_probability_pdp_original_style.py",
+    "sha256": "29890068ea769f9c520171b2886ae9f3068bd35eb81768beb0466f103cdca04f"
+  },
+  {
+    "path": "src/analyses/audit_perturbation_support.py",
+    "sha256": "d8aa0b61d7c72eb86090a72da765dd9ff7ad999110b6bbbc60f451dd78cb8580"
+  },
+  {
+    "path": "src/analyses/regenerate_probability_pdp.py",
+    "sha256": "ab4e20144a8249d290ef771536b7a0b1cb493d5f081819d97ce6c41ed6d963e5"
+  },
+  {
+    "path": "src/analyses/run_categorical_comparison.py",
+    "sha256": "b8a7e7c03b22f3330d847df48523389fc5d8a5ae66d3629ab564444bbeae3d05"
+  },
+  {
+    "path": "src/analyses/audit_income_construction.py",
+    "sha256": "90f0cd7ccfba0295cdb81e29b30180f2a7b3ad886eee250c5464645cd55b98cd"
+  },
+  {
+    "path": "src/analyses/reconcile_pdp_perturbation_scale.py",
+    "sha256": "39971f59669ff6b06a3e140c99976f7e2e66bf5073261d257e9fb51298b8d765"
+  },
+  {
+    "path": "src/analyses/audit_mediation_consistency.py",
+    "sha256": "413430ba2cdd25a8364373f8c0659fb10d5cdc6957b91ed96003364508535bcd"
+  },
+  {
+    "path": "src/analyses/validate_two_stage_fold_plan.py",
+    "sha256": "4b52d0cfd9959d1575751a67fba53efbc1013052eca369448fb607c508b3b013"
+  },
+  {
+    "path": "src/analyses/plot_revision_spatial_contrasts.py",
+    "sha256": "15550e5aebac7e25d9534598ce2de6678f3d381e798ce05020e6895a3f620fc1"
+  },
+  {
+    "path": "src/analyses/run_spatial_coarsening_sensitivity.py",
+    "sha256": "170b9e667669bda8dc76eaca95a9845e2ba72f399d1d2f33b9936c37d4d992eb"
+  },
+  {
+    "path": "src/analyses/paired_perturbation.py",
+    "sha256": "c49a342dcfb7325c92f36a9a501a61acc2d693ff9019a25f84176d9bda3c14d2"
+  },
+  {
+    "path": "src/analyses/gpu_prediction.py",
+    "sha256": "4e250a13913cc185502cb05b20a72e84e9b23d68c89284408b039683524feddb"
+  },
+  {
+    "path": "src/analyses/regenerate_feature_importance.py",
+    "sha256": "93e32bfa1a2b42660ab2ca8e1e01beb6da99590d7dc8c44cd2024fd089389d04"
+  },
+  {
+    "path": "src/analyses/benchmark_gpu_prediction.py",
+    "sha256": "31f220a3677a369e44389ace9f7fcac6033a7e480f87c760f277b224e98cdc25"
+  },
+  {
+    "path": "src/analyses/plot_revision_sample_flow.py",
+    "sha256": "64314686ad5e30190d19fdd5d123d40a73d159986e5022a967ee9956ec40e432"
+  },
+  {
+    "path": "src/analyses/summarize_encoding_sensitivity.py",
+    "sha256": "1fc2749c5cd728b0b4ede8ea3304bf3f9dc9b5129791d4503da472700c3b3c88"
+  },
+  {
+    "path": "src/analyses/audit_analysis_sample_dates.py",
+    "sha256": "4ed449eeb5ba708992eeee7450180ebcb84d306d5d9a0cde8a71c6cf3180ea42"
+  },
+  {
+    "path": "src/analyses/compare_revision_experiments.py",
+    "sha256": "d9f1b17559159b24521c9017532631db8ee1d924b237fcaaf81f7b9182d47c66"
+  },
+  {
+    "path": "src/analyses/compare_categorical_point.py",
+    "sha256": "77a944addd136d0e98ff29e54c6b0607122105b60680defa0be31122d9f79958"
+  },
+  {
+    "path": "src/analyses/validate_categorical_prediction.py",
+    "sha256": "aa47713f6793e5b8e6d846b8d1e4840f6b3ae6b4e6914e8e0fb5c481f50166aa"
+  },
+  {
+    "path": "src/analyses/verify_sushi_deployment.py",
+    "sha256": "18436ec45de57e7694f160a7493fb4231cd56343fdc3ee351c4ad84a54dbf1eb"
+  },
+  {
+    "path": "src/analyses/config/HEALTH_PROB_params.yaml",
+    "sha256": "4019168b58564219f3bcff6fffba806ac097b2ea26fe98ad17cda1e32f0a27d5"
+  },
+  {
+    "path": "src/analyses/config/params.yaml",
+    "sha256": "a0e885c5de7f37f2174f89695113631f944d180dfaf2e3ad3f86283d2079f2c4"
+  },
+  {
+    "path": "src/analyses/config/README.md",
+    "sha256": "2698ac5084546c83ab55a96e6d5cbf72649f33c580fba7f70cfea2309201f1c4"
+  },
+  {
+    "path": "src/analyses/config/BODILY_PAIN_params.yaml",
+    "sha256": "346513d5f3484bcdd0fb9c1932c6be66ce6b5245fcf0bf164daeaf992dced09f"
+  },
+  {
+    "path": "src/analyses/config/DAYS_EXERCISE_params.yaml",
+    "sha256": "4019168b58564219f3bcff6fffba806ac097b2ea26fe98ad17cda1e32f0a27d5"
+  },
+  {
+    "path": "src/analyses/nbs/c07_fine_tuning_hyperparameter_ph.py",
+    "sha256": "cc0140ec5327671108c34e52d5ceea757d39dc275cf846d00afcac14fb2fd50a"
+  },
+  {
+    "path": "src/analyses/nbs/c21_summerize_data.py",
+    "sha256": "cb280112ac2979dae7e6f7d70cf0e15f3e30c85d141f586178347e75e24bd111"
+  },
+  {
+    "path": "src/analyses/nbs/c08_check_explanation_physical_health_tas_relationship.py",
+    "sha256": "e2d251d7c765a6a5a7d34a67d10b136ff214112fbc788613e89a873007b2d3b4"
+  },
+  {
+    "path": "src/analyses/nbs/c01_gfs_data_preprocess.py",
+    "sha256": "1542e11e9753040ecb2d99bc89be45f493e0c8cc6fc5d63b8dbe7c31a571e200"
+  },
+  {
+    "path": "src/analyses/nbs/c06_basic_mediate_prediction.py",
+    "sha256": "37e5ed92744c9eb18530de1bab62b2fe661346af6a8d96ef20c2c80dca3efb1d"
+  },
+  {
+    "path": "src/analyses/nbs/c20_visualization_of_data.py",
+    "sha256": "7a0c03219fc1521b921c42dc5d6b87e815417685ff462d14df7fc81674e72b79"
+  },
+  {
+    "path": "src/analyses/nbs/c05_check_explanation_mediate_temp_relationship.py",
+    "sha256": "e641ff15f147eedc110a269fa8cd9bac6d46b6962708fd6cc049ac57bee773e2"
+  },
+  {
+    "path": "src/analyses/nbs/c11_basic_physical_health_prediction_with_increase.py",
+    "sha256": "6be49cde2cd0cef40de1dc5f3e9cdae012ad18d2cbac34b9cbc75481ad1205b3"
+  },
+  {
+    "path": "src/analyses/nbs/c03_investigate_on_tas.py",
+    "sha256": "8de1440e5fc353f2bdbe620409ec6cbab6a6ed98896d705780e2d1f592e20ced"
+  },
+  {
+    "path": "src/analyses/nbs/c04_fine_tuning_hyperparameter_mediate.py",
+    "sha256": "54025339debe546b9f0ac3cb650f5e7be1aff5cfa348a15b46ad0c49f7c99eb8"
+  },
+  {
+    "path": "src/analyses/nbs/c09_basic_mediate_prediction_with_increase.py",
+    "sha256": "5fd2a50c77907d7754380102a657eee3c074bfd6edbc222c6fe0b28ddd5c6f94"
+  },
+  {
+    "path": "src/analyses/nbs/c02_extract_cmip6_temperature.py",
+    "sha256": "14d652cbd06d59232ee05ecccd7409f7bbd3fc451896f8d8bedc6fd6fdf2f803"
+  },
+  {
+    "path": "src/analyses/nbs/c14_total_effect.py",
+    "sha256": "33e685dd4e752213be958fe04c07b884f348ee4a0372e9ba06e6a66ba8a5552e"
+  },
+  {
+    "path": "src/analyses/nbs/c10_basic_physical_health_prediction.py",
+    "sha256": "735b544df5aaf2a0e2ecd62446179009e6ba9ed3cc0438a87d227d0db761a012"
+  },
+  {
+    "path": "src/analyses/nbs/c13_total_increase_physical_health_prediction_with_emotion_effect.py",
+    "sha256": "9110e26a0365f8d0be93808c9f569b12328b15a054829791bfb34ead1d9856c0"
+  },
+  {
+    "path": "src/analyses/nbs/module.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "src/analyses/nbs/c12_direct_effect.py",
+    "sha256": "a9f5dfa0cec9062d2251994523245dcce55e2c37abe0971578235aa06c32b801"
+  },
+  {
+    "path": "src/analyses/nbs/00_example.py",
+    "sha256": "e7ea7dccb53c04aef632574830e53fe7d6f166242dbc8c6bfbecf82d0f5eaa93"
+  },
+  {
+    "path": "src/analyses/notebooks/SettingForFeatures.py",
+    "sha256": "b996a64cd6ca4ab3685c7e4ff136bf455d3180dd210ac671de256db6ff673799"
+  },
+  {
+    "path": "src/analyses/notebooks/Modelling.py",
+    "sha256": "10ebe997e7d1bc95c11c94ddb05b102ad3cf4a45f01dd9ac645dcdcb42173e6d"
+  },
+  {
+    "path": "src/analyses/notebooks/TestingTools.py",
+    "sha256": "d7bdce3e40b5b51a6b32307dcc250ea2d22540d15e333d62fb213a384d98d79f"
+  },
+  {
+    "path": "src/analyses/notebooks/module.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "src/analyses/notebooks/ExplainResult.py",
+    "sha256": "a78764e68e843e9bbccaa121a1bfd43504b7c3598988b2fdfe479ee7d3993476"
+  },
+  {
+    "path": "src/analyses/notebooks/ProcessNC.py",
+    "sha256": "3c9eea136ff9afd84dc2afd0b78e4b599753b389c958cf82b40cf7119c6b8f52"
+  },
+  {
+    "path": "pyproject.toml",
+    "sha256": "0d35be42e853d775318ec8b4f2b063b7c47a41f17e6494c0dd006e5e09da89fd"
+  },
+  {
+    "path": "uv.lock",
+    "sha256": "0ae85b72fa88cb30895b992a987be719d0b5f727bfd44a4f425d1872bddd6672"
+  }
+]

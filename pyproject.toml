@@ -2,8 +2,24 @@
 name = "mproj"
 version = "0.0.0"
 description = "My project description"
-dependencies = []
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "netcdf4>=1.7.4",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pyarrow>=25.0.1",
+    "pyshp>=3.1.6",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.9.1",
+    "xgboost>=3.4.1",
+]
 
 authors = [
   { name = "Mike C. Li", email = "c.li[at]aiesg.com" }
+]
+
+[project.optional-dependencies]
+gpu = [
+    "cupy-cuda13x[ctk]>=14.2,<15 ; sys_platform == 'linux'",
 ]

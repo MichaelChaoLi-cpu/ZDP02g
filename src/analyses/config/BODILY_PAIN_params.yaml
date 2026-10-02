@@ -1,0 +1,10 @@
+objective: binary:logistic
+eval_metric: logloss
+n_estimators: 1200
+learning_rate: 0.005
+max_depth: 12
+subsample: 0.7
+colsample_bytree: 0.5
+tree_method: hist
+device: cuda
+random_state: 42
